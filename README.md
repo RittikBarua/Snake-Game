@@ -5,4 +5,4 @@ Install free games module before running.
 Open Cmd and type: python -m pip install freegames
 Then run the .py file.
 
-![Screenshot](SnakeGame screenshot.png)
+![Screenshot](SnakeGame_screenshot.png)
